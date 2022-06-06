@@ -1,6 +1,6 @@
 # git-lesson
 
-** Location ** remote
+**Location:** remote
 
 ### Before the lesson
 
